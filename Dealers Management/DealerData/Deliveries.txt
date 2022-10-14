@@ -1,0 +1,1 @@
+DEL123 || cocacola || 123.0 || 1 || available
